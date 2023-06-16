@@ -73,7 +73,12 @@ h6 {
 }
 
 a.navbar-brand {
-    width: 245px;
+    width: 100px;
+}
+
+.navbar-brand2{
+    width: 50px;
+    border-radius: 50%;
 }
 
 ul {
